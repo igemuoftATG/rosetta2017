@@ -8,6 +8,10 @@
 # importing pyrosetta3
 from rosetta import *
 rosetta.init()
+
+# importing pyrosetta4
+from pyrosetta import *
+init()
 ~~~
 
 #### Pose [Unit 2]
