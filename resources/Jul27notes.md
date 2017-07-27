@@ -3,7 +3,7 @@
 - **PyRosetta 3 is usable only with python2**
 - Get PyRosetta 3 Namespace if installing on local machine
 - Importing PyRosetta is different in v3 and v4 [more details](https://www.rosettacommons.org/docs/latest/scripting_documentation/PyRosetta/PyRosetta)
-
+- PyRosetta 4 pose sequence starts from index of 1 whereas PyRosetta 3 starts from 0.
 ~~~
 # importing pyrosetta3
 from rosetta import *
