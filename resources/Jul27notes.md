@@ -2,7 +2,7 @@
 
 - **PyRosetta 3 is usable only with python2**
 - Get PyRosetta 3 Namespace if installing on local machine
-- Importing PyRosetta is different in v3 and v4 [more details][1]
+- Importing PyRosetta is different in v3 and v4 [more details](https://www.rosettacommons.org/docs/latest/scripting_documentation/PyRosetta/PyRosetta)
 
 ~~~
 # importing pyrosetta3
@@ -93,7 +93,5 @@ dump_pdb(yourPose, "YOUR/PATH/FOR/OUTPUT/out_pdb_name.pdb")
 ~~~
 
 #### Researching structures and methods
-- Finding papers that have run similar simulations [Papers using rosetta][2]
+- Finding papers that have run similar simulations [Papers using rosetta](https://www.rosettacommons.org/about/publications)
 - Score functions can be found by searching Literature for similar structures
-[1]: https://www.rosettacommons.org/docs/latest/scripting_documentation/PyRosetta/PyRosetta
-[2]: https://www.rosettacommons.org/about/publications
